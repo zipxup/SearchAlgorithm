@@ -5,13 +5,14 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>3410c345-111e-4ccb-ac1e-4bb560effd8d</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>SearchAlgorithm.py</StartupFile>
+    <StartupFile>GraphicInterfaceClass.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>SearchAlgorithm</Name>
     <RootNamespace>SearchAlgorithm</RootNamespace>
+    <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -22,7 +23,33 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="SearchAlgorithm.py" />
+    <Compile Include="AstarClass.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BFSClass.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DFSClass.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GraphicInterfaceClass.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LoadGraphFile.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PriorityDict.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PriorityQueue.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UniformCostSearch.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="WeightedGraph.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
