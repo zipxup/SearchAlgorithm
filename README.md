@@ -21,6 +21,14 @@
    
    *PLEASE NOTICE THE INPUT FILE'S FORMAT
    
+   the first line indicates the number of locations in this map
+   
+   the following lines are locations with their corresponding heuristic value.
+   
+   the next number is the number of paths in this map
+   
+   the following lines are the distances between two locations.
+   
    ![image](https://github.com/zipxup/SearchAlgorithm/raw/master/images/input_format.JPG)
    
   if the file is loaded successfully, the program will show messages "load file successfully"
