@@ -1,7 +1,7 @@
 # User Instruction
 
 1. Run the program, the program will show Search Algorithm GUI for users to use
- ![alt text](https://github.com/zipxup/SearchAlgorithm/tree/master/images/gui.jpg)
+ ![image](https://github.com/zipxup/SearchAlgorithm/tree/master/images/gui.jpg)
   
   File Menu: ![image](https://github.com/zipxup/SearchAlgorithm/tree/master/images/filename.jpg)
   
