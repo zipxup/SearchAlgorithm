@@ -3,11 +3,14 @@
 1. Run the program, the program will show Search Algorithm GUI for users to use
  ![image](https://github.com/zipxup/SearchAlgorithm/raw/master/images/gui.jpg)
   
-  File Menu: ![image](https://github.com/zipxup/SearchAlgorithm/raw/master/images/filename.jpg)
+  File Menu:
+ ![image](https://github.com/zipxup/SearchAlgorithm/raw/master/images/filemenu.jpg)
   
-  Uninformed Search Menu: ![image](https://github.com/zipxup/SearchAlgorithm/raw/master/images/uninformed_menu.jpg)
+  Uninformed Search Menu: 
+ ![image](https://github.com/zipxup/SearchAlgorithm/raw/master/images/uninformed_menu.jpg)
   
-  Informed Search Menu:  ![image](https://github.com/zipxup/SearchAlgorithm/raw/master/images/informed_menu.jpg)
+  Informed Search Menu:  
+ ![image](https://github.com/zipxup/SearchAlgorithm/raw/master/images/inform_menu.jpg)
 
 2. Click the File menu, choose "Load File"
    ![image](https://github.com/zipxup/SearchAlgorithm/raw/master/images/choose_input_file.jpg)
