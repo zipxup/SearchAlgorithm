@@ -20,7 +20,8 @@
    ![image](https://github.com/zipxup/SearchAlgorithm/raw/master/images/choose_input_file.jpg)
    
    *PLEASE NOTICE THE INPUT FILE'S FORMAT
-    ![image](https://github.com/zipxup/SearchAlgorithm/raw/master/images/input_format.JPG)
+   
+   ![image](https://github.com/zipxup/SearchAlgorithm/raw/master/images/input_format.JPG)
    
   if the file is loaded successfully, the program will show messages "load file successfully"
   
@@ -40,6 +41,7 @@
    ![image](https://github.com/zipxup/SearchAlgorithm/raw/master/images/successfully_save_file.JPG)
    
    the output file is like:
+   
    ![image](https://github.com/zipxup/SearchAlgorithm/raw/master/images/save_result.JPG)
    
    
